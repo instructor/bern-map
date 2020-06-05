@@ -3,16 +3,15 @@
 
 <img src="./img/bern-maps-logo.jpg" title="Cool&Hot Locations in Bern" alt="Cool&Hot Locations in Bern">
 
-# GeoJSON Example for ***Web Technology""" Classes
+# GeoJSON Example for ***Web Technology*** Classes
 
 > Topic: "Cool & Hot Locations in Bern"
 
-**History**
+**Facts**
 
 - used since 2015
 - updated regularly
 - used @ BUAS (Bern/CH), HAMK (Hämeenlinna/FI), ISEG (Lisboa/PT), HS-H (Hannover/D), UEK (Kraków/PL)
-- Ergo, people should understand instantly what your project is about based on your repo
 
 ---
 
