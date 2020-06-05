@@ -1,7 +1,7 @@
 
 <!-- adapted from: https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46 -->
 
-<img src="./img/bern-maps-logo.jpg" title="Cool&Hot Locations in Bern" alt="Cool&Hot Locations in Bern">
+<img src="./img/bern-maps-logo.jpg" height="100px" title="Cool&Hot Locations in Bern" alt="Cool&Hot Locations in Bern">
 
 # GeoJSON Example for ***Web Technology*** Classes
 
