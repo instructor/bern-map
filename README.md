@@ -12,12 +12,14 @@
 1. Download HTML file and JSON file (.js)
 2. Loading HTML file in Web Browser should render a map similar to the above one
 3. Study and analyze GeoJSON records (.js file)
-4. Develop a POI of your choice as GeoJSON record (about a cool or hot location you know about)
+4. Develop a POI of your choice as GeoJSON record (about a cool or hot location you know about).
+
    Cool marker icons are here: https://www.mapbox.com/maki/ 
 5. Test your record, i.e. include it in your .js file locally and refresh browser
 6. If successful:
- a) in case you are a collaborator of this github repository: upload the .js file
- b) otherwise: send it to the creator of this github repository
+
+   a) in case you are a collaborator of this github repository: upload the .js file
+   b) otherwise: send it to the creator of this github repository
  
 ---
 
