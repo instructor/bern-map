@@ -19,6 +19,7 @@
 6. If successful:
 
    a) in case you are a collaborator of this github repository: upload the .js file
+   
    b) otherwise: send it to the creator of this github repository
  
 ---
